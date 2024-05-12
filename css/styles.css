@@ -1,0 +1,21 @@
+body {
+  background: #363b4e;
+  font-family: sans-serif;
+}
+h1 {
+  text-align: center;
+  color: #927fbf;
+}
+h2 {
+  text-align: center;
+  color: #c4bbf0;
+}
+a {
+  color: #927fbf;
+}
+a:visited {
+  color: #c4bbf0;
+}
+p {
+  color: #c4bbf0;
+}
